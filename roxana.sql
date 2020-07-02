@@ -61,7 +61,7 @@ having Pays like '%s%' or Pays like '%r%';
 # EXERCICE 8
 
 
-
+# bblzkelzfvzl
 
 
 
