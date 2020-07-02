@@ -59,6 +59,10 @@ having Pays like '%s%' or Pays like '%r%';
 # 3 lignes
 
 # EXERCICE 8
+# EXERCICE 9
+
+select NomAuteur,titre,prix
+from Auteur
 
 
 
