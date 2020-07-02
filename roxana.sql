@@ -67,3 +67,4 @@ having Pays like '%s%' or Pays like '%r%';
 
 
 
+
